@@ -25,5 +25,5 @@ apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
 build-mode = "both"
 
 [Twitter]
-apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
+apkmirror-dlurl = "https://apkmirror.com/apk/x-corp/twitter/"
 build-mode = "both"
